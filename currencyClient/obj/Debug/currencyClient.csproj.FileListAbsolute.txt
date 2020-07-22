@@ -1,0 +1,10 @@
+C:\Users\Kaltrina\source\repos\currencyClient\currencyClient\bin\Debug\currencyClient.exe.config
+C:\Users\Kaltrina\source\repos\currencyClient\currencyClient\bin\Debug\currencyClient.exe
+C:\Users\Kaltrina\source\repos\currencyClient\currencyClient\bin\Debug\currencyClient.pdb
+C:\Users\Kaltrina\source\repos\currencyClient\currencyClient\obj\Debug\currencyClient.csprojAssemblyReference.cache
+C:\Users\Kaltrina\source\repos\currencyClient\currencyClient\obj\Debug\currencyClient.Form1.resources
+C:\Users\Kaltrina\source\repos\currencyClient\currencyClient\obj\Debug\currencyClient.Properties.Resources.resources
+C:\Users\Kaltrina\source\repos\currencyClient\currencyClient\obj\Debug\currencyClient.csproj.GenerateResource.cache
+C:\Users\Kaltrina\source\repos\currencyClient\currencyClient\obj\Debug\currencyClient.csproj.CoreCompileInputs.cache
+C:\Users\Kaltrina\source\repos\currencyClient\currencyClient\obj\Debug\currencyClient.exe
+C:\Users\Kaltrina\source\repos\currencyClient\currencyClient\obj\Debug\currencyClient.pdb
